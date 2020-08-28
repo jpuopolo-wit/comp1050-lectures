@@ -1,0 +1,7 @@
+
+Short string: abc 123
+String literal: programming is fun and Java 11 is cool
+Phone number with area code: \(\d{3}\)\s?\d{3}[.-]\d{4}
+Phone number with named area code: \((?<area>\d{3})\)\s?\d{3}[.-]\d{4}
+Quoted words: \"\w.*\"
+Simple replacement: See example program
